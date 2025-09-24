@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"iloc row1:row2,column1:column2\" for integer location.\\E$"}
